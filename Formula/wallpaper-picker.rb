@@ -2,8 +2,8 @@ class WallpaperPicker < Formula
   desc "Pick macOS wallpapers from a fanned deck of colour-chip cards"
   homepage "https://github.com/pruzicka/wallpaper-picker"
   url "https://github.com/pruzicka/wallpaper-picker.git",
-      tag:      "v0.3.0",
-      revision: "41a65bbf15419a9e7c34529eb17d9f7ea7daf8e3"
+      tag:      "v0.3.1",
+      revision: "1f52b110c02c2144bdb0129640e2c22efc6d9e35"
   license "GPL-3.0-only"
   head "https://github.com/pruzicka/wallpaper-picker.git", branch: "main"
 
